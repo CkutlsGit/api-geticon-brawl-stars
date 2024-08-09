@@ -2,7 +2,7 @@ import express, { Express, Request, Response } from "express"
 import path from 'path'
 
 const router = express.Router()
-const imageFolderPath = path.join(__dirname, '../public/images')
+const imageFolderPath = path.join(__dirname, '../../public/images')
 
 router.get('/:name', (req: Request, res: Response) => {
     const { name } = req.params
