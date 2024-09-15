@@ -8,4 +8,4 @@
 
 # The correct names of the fighters to point the way
 
-## [Correct name](https://imgur.com/a/3a4zQ9x)
+![image](https://github.com/user-attachments/assets/16227ed3-bae2-437b-9a26-2de6c6e7c6f0)
